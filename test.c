@@ -7,6 +7,7 @@ int main(int argc, const char *argv[])
 	printf("a[0]=%c",a[0]);
 	printf("a[1]=%c",a[1]);
 	printf("develop***********");
+	printf("！！！！！！！！！！！***********");
 
 	
 
